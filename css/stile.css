@@ -30,6 +30,7 @@ body {
 
 .hero-section {
     padding: 100px 0;
+    margin-top: 20px;
     background-color: var(--bg-color);
 }
 
